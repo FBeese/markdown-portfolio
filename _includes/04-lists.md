@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+## List of interests
+- biostatistics
+- R and statistical analysis with R
+- epidemiology
+- public health
