@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+author: Florian Beese
+
+# This is a markdown header
